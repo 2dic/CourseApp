@@ -1,0 +1,6 @@
+int drawable arrow_right_short_fill 0x0
+int drawable ic_bookmark 0x0
+int drawable ic_bookmark_fill 0x0
+int drawable ic_okru 0x0
+int drawable ic_sort 0x0
+int drawable ic_vk 0x0

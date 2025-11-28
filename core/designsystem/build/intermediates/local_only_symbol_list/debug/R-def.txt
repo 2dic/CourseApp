@@ -1,0 +1,8 @@
+R_DEF: Internal format may change without notice
+local
+drawable arrow_right_short_fill
+drawable ic_bookmark
+drawable ic_bookmark_fill
+drawable ic_okru
+drawable ic_sort
+drawable ic_vk

@@ -1,0 +1,7 @@
+com.example.core.designsystem
+drawable arrow_right_short_fill
+drawable ic_bookmark
+drawable ic_bookmark_fill
+drawable ic_okru
+drawable ic_sort
+drawable ic_vk
