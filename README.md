@@ -1,8 +1,8 @@
 Приложение "Курсы"
 
+<img width="361" height="803" alt="image" src="https://github.com/user-attachments/assets/21dba31e-62f7-4242-bc3c-e4c32c6c731b" />
 <img width="361" height="803" alt="image" src="https://github.com/user-attachments/assets/90890f27-f6de-4992-8926-b175bf1b797f" />
 <img width="361" height="803" alt="image" src="https://github.com/user-attachments/assets/805ca621-17d8-4ed8-9f26-19adea8f8e76" />
-<img width="361" height="803" alt="image" src="https://github.com/user-attachments/assets/21dba31e-62f7-4242-bc3c-e4c32c6c731b" />
 
 Основные особенности:
 - Экран входа с валидацией email в реальном времени
